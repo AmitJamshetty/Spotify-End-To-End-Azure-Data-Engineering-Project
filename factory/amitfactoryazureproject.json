@@ -1,9 +1,9 @@
 {
 	"name": "amitfactoryazureproject",
-	"location": "eastus",
+	"location": "canadacentral",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "a159a51b-1486-4cd1-9d80-e2f6b4be0a17",
+		"principalId": "3876df27-7ba7-488e-9732-7ecf6d0aed04",
 		"tenantId": "211aeafa-49e5-4b04-b4b9-7623d02454e2"
 	}
 }
