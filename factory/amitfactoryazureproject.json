@@ -1,0 +1,9 @@
+{
+	"name": "amitfactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a159a51b-1486-4cd1-9d80-e2f6b4be0a17",
+		"tenantId": "211aeafa-49e5-4b04-b4b9-7623d02454e2"
+	}
+}
